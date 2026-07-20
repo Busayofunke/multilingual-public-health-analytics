@@ -1,0 +1,21 @@
+EquiHealth Institute — Multilingual Public Health Alerts
+============================================================
+
+English:
+PUBLIC HEALTH ALERT: Flu activity is LOW. Predicted ILI rate: 0.1%. Take preventive measures.
+
+Spanish (Español):
+ALERTA DE SALUD PÚBLICA: La actividad de gripe es LOW. Tome medidas preventivas.
+
+French (Français):
+ALERTE SANTÉ PUBLIQUE: L'activité grippale est LOW. Prenez des mesures préventives.
+
+Yoruba:
+ÌKÌLỌ̀ ÌLERA: Ìṣẹ̀lẹ̀ àrùn ìmú-jẹ wà ní ìpele LOW. Jọ̀wọ́ mú àwọn ọ̀nà ìdènà.
+
+Hausa:
+GARGAƊIN LAFIYA: Ayyukan mura yana LOW. Da fatan za a ɗauki matakan kariya.
+
+Swahili:
+ONYO LA AFYA: Shughuli za homa ni LOW. Tafadhali chukua hatua za kuzuia.
+
