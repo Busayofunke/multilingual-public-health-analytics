@@ -1,0 +1,21 @@
+LinguaCast / EquiHealth Institute — Multilingual Alerts (REAL CDC Data)
+=================================================================
+
+English:
+PUBLIC HEALTH ALERT: Influenza activity is LOW. Predicted ILI rate: 1.9%. Take preventive measures.
+
+Spanish:
+ALERTA DE SALUD PUBLICA: La actividad de influenza es LOW. Tasa estimada de ILI: 1.9%. Tome medidas preventivas.
+
+French:
+ALERTE DE SANTE PUBLIQUE: L'activite grippale est LOW. Taux d'ILI prevu: 1.9%. Prenez des mesures preventives.
+
+Yoruba:
+IKILO ILERA: Isele arun imu-je wa ni ipele LOW. Iwon ILI: 1.9%. Jowo mu awon ona idena.
+
+Hausa:
+GARGADIN LAFIYA: Ayyukan mura yana LOW. Adadin ILI: 1.9%. Da fatan za a dauki matakan kariya.
+
+Swahili:
+ONYO LA AFYA: Shughuli za mafua ziko LOW. Kiwango cha ILI: 1.9%. Tafadhali chukua hatua za kuzuia.
+
